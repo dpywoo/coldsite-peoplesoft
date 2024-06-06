@@ -1,0 +1,8 @@
+#outage-message h1, #outage-message h2, #outage-message h3, #outage-message h4, #outage-message h5, #outage-message p {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+#outage-message > p {
+  clear: both; }
+#outage-message > ul > li {
+  display: block;
+  float: left; }
